@@ -1,0 +1,9 @@
+<taglib xmlns= "http://java.sun.com/xml/ns/javaee" version= "2.1" >
+      <tlib-version>1.0</tlib-version>
+      <short-name>math</short-name>
+      <function>
+           <name>squareroot</name>
+           <function-class>java.lang.Math</function-class>
+           <function-signature>double sqrt(double)</function-signature>
+      </function>
+</taglib>
